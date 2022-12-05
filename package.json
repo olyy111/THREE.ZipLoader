@@ -1,7 +1,7 @@
 {
-  "name": "three-ziploader",
-  "version": "0.0.1",
-  "description": "Zip archived model file loading helper for Three.js",
+  "name": "three-ziploader-revision",
+  "version": "0.0.2",
+  "description": "revision of https://github.com/takahirox/THREE.ZipLoader.git",
   "main": "index.js",
   "scripts": {
     "all": "npm run build && npm run build-uglify",
@@ -10,19 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/takahirox/THREE.ZipLoader.git"
+    "url": "git+https://github.com/olyy111/THREE.ZipLoader.git"
   },
   "keywords": [
   ],
-  "author": "Takahiro <hogehoge@gachapin.jp> (https://github.com/takahirox)",
+  "author": "olyy111 <olyy111@gmail.com> (https://github.com/olyy111)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/takahirox/THREE.ZipLoader/issues"
+    "url": "https://github.com/olyy111/THREE.ZipLoader/issues"
   },
-  "homepage": "https://github.com/takahirox/THREE.ZipLoader#readme",
+  "homepage": "https://github.com/olyy111/THREE.ZipLoader#readme",
   "devDependencies": {
     "jszip": "^3.1.5",
     "webpack": "^3.10.0"
   }
 }
-
